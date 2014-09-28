@@ -1,4 +1,4 @@
-require 'block_io/version'
+require_relative 'block_io/version'
 require 'httpclient'
 require 'json'
 require 'connection_pool'
